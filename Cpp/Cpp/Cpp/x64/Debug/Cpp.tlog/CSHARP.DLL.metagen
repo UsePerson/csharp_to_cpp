@@ -1,0 +1,14 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly Csharp, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Csharp.Calculate: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    add(): PrivateScope, Public, HideBySig
+    div(): PrivateScope, Public, HideBySig
+    mod(): PrivateScope, Public, HideBySig
+    sub(): PrivateScope, Public, HideBySig
+    mul(): PrivateScope, Public, HideBySig
